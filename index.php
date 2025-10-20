@@ -14,6 +14,7 @@
 </head>
 <body>
     <h1>Halo dari Web di Port 2000!</h1>
+    <h2>Senang bertemu denganmu</h2>
     <p>Ini adalah halaman index.php yang berjalan di port 2000.</p>
     <a href="http://localhost:3000">Kunjungi Web di Port 3000</a>
 </body>
